@@ -8,5 +8,5 @@
 
 ### To start the script.
 
-## Only works with ironfish installed via docker.
+# Only works with ironfish installed via docker.
 
